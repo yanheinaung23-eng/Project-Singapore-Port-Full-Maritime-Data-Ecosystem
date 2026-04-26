@@ -4,7 +4,7 @@ This project is a full-stack maritime data solution system including ETL pipelin
 # About the Author
 Hi everyone!👋👋 My name is Yan, and I am a former seafarer with professional experience on merchant ships and superyachts. I am currently pursuing a career in data analytics, fueled by a deep passion for leveraging data to solve real-world problems.
 
-By combining my maritime domain knowledge with technical analytics, I aim to support maritimers and port authorities through data-driven systems. As a major step toward this goal, I have built a comprehensive data ecosystem for the Singapore Port, featuring an automated ETL pipeline, a vessel delay prediction model, and interactive congestion dashboards. 🚢🌊
+By combining my maritime domain knowledge with technical analytics, I aim to support maritimers and port authorities through data-driven systems. As a major step toward this goal, I have built a comprehensive data ecosystem for the Singapore Port, featuring an automated ETL pipeline, a vessel delay prediction model, and interactive congestion and delay dashboard and reports. Hope to enjoy my project and feel free to connect with me!🚢🌊
 
 ## Contents
 
