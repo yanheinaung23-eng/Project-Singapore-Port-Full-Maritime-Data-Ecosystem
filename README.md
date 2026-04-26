@@ -67,7 +67,7 @@ Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, d
 
 # 3. Interactive Dashboard (Tableau) 📈
 
-Interactive View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
+Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/97a7724aedf9e5a5d9cf45a4bff66e24a190550f/Interactive%20Dashboard/Dashboard%20Full%20Layout.png)
 
