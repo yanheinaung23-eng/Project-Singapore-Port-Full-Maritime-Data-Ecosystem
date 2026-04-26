@@ -1,2 +1,11 @@
 # Project-Singapore-Port-Full-Maritime-Data-Ecosystem
-This project is a full-stack maritime data solution system created by one person to analyze vessel congestion and delays, predict vessel delays with ML model at the Singapore Port. It spans the entire data lifecycle, from automated ETL engineering to machine learning and interactive business intelligence.
+This project is a full-stack maritime data solution system including ETL pipeline, analyzing vessel congestion and delays, prediction of vessel delays ML model and interactive business intelligence all created by one person using Singapore Port AIS dataset.
+
+## Contents
+
+* ETL Pipeline
+* Delay Prediction ML Model
+* Interactive Tableau Dashboard
+* Vessel Congestion and Delays Analysis
+
+## Project Overview
