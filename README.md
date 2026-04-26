@@ -56,4 +56,9 @@ After ingestion, data is transformed in the Silver layer to improve quality and 
 - Transforming inconsistent data and correct them.
 - Load cleaned data in the Silver layer using Stored procedure, TRUNCATE and INSERT INTO. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Stored%20Procedure%20for%20loading%20cleaned%20data%20into%20Silver%20layer.sql)
 
+### 1.3 Data Integration (Gold Layer) 🥇
+This is the final stage, transform data and create view as a gold layer for business ready usage. Process:
+
+- Logical Transformation: Specialized SQL Views translate technical AIS codes into human-readable vessel types and navigational statuses.
+- Feature Engineering: Added calculated columns such as week_number and direction (N, NE, E, etc.) for immediate downstream usage. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/c055f24313352ed86bce17869a5dd88f5534c99f/ETL%20Pipeline/Gold%20Layer/Creating%20View%20in%20Gold%20layer.sql)
 
