@@ -37,6 +37,7 @@ Using Automatic Identification System (AIS) data from October 2023, I tracked 60
 Scope
 609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
 
+__________________________________________________________________________
 ## 1. ETL Pipeline ⚙️
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/Documents/ETL%20Pipeline.png)
 
@@ -46,5 +47,13 @@ The workflow begins with ingesting raw data from the source into the data wareho
 - Created table with same number of columns as an original data source. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/ETL%20Pipeline/Bronze%20Layer/Creating%20table%20in%20Bronze%20layer.sql)
 - Load data into SQL Server using TRUNCATE and BULK INSERT operations
 - Store data in the Bronze layer without transformation and created stored procedure using CREATE OR ALTER, BEGIN TRY to handle errors. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/ETL%20Pipeline/Bronze%20Layer/Stored%20Procedure%20for%20loading%20raw%20data%20into%20Bronze%20layer.sql)
+
+### 1.2 Data Processing & Standardization (Silver Layer) 🥈
+After ingestion, data is transformed in the Silver layer to improve quality and consistency. Process:
+
+- Created table with same number of columns as an original data source. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Creating%20table%20in%20Silver%20layer.sql)
+- Checking data quality and outliers before loading into Silver Layer. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Checking%20data%20quality%20and%20outliers%20before%20loading%20into%20Silver%20layer.sql)
+- Transforming inconsistent data and correct them.
+- Load cleaned data in the Silver layer using TRUNCATE and INSERT INTO. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Stored%20Procedure%20for%20loading%20cleaned%20data%20into%20Silver%20layer.sql)
 
 
