@@ -3,10 +3,10 @@ This project is a full-stack maritime data solution system including ETL pipelin
 
 ## Contents
 
-* ETL Pipeline
-* Delay Prediction ML Model
-* Interactive Tableau Dashboard
-* Vessel Congestion and Delays Analysis
+1. ETL Pipeline
+2. Delay Prediction ML Model
+3. Interactive Tableau Dashboard
+4. Vessel Congestion and Delays Analysis
 
 ## Project Overview
 
@@ -32,7 +32,14 @@ Using Automatic Identification System (AIS) data from October 2023, I tracked 60
 Scope
 609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
 
-## ETL Pipeline
-![alt image]
+## 1. ETL Pipeline ⚙️
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/Documents/ETL%20Pipeline.png)
+
+### 1.1 Data Ingestion (Bronze Layer) 🥉
+The workflow begins with ingesting raw data from the source into the data warehouse. Process:
+
+- Created table with same number of columns as an original data source. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/ETL%20Pipeline/Bronze%20Layer/Creating%20table%20in%20Bronze%20layer.sql)
+- Load data into SQL Server using TRUNCATE and BULK INSERT operations
+- Store data in the Bronze layer without transformation and created stored procedure using CREATE OR ALTER, BEGIN TRY to handle errors. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/ETL%20Pipeline/Bronze%20Layer/Stored%20Procedure%20for%20loading%20raw%20data%20into%20Bronze%20layer.sql)
 
 
