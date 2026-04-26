@@ -54,6 +54,6 @@ After ingestion, data is transformed in the Silver layer to improve quality and 
 - Created table with same number of columns as an original data source. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Creating%20table%20in%20Silver%20layer.sql)
 - Checking data quality and outliers before loading into Silver Layer. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Checking%20data%20quality%20and%20outliers%20before%20loading%20into%20Silver%20layer.sql)
 - Transforming inconsistent data and correct them.
-- Load cleaned data in the Silver layer using TRUNCATE and INSERT INTO. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Stored%20Procedure%20for%20loading%20cleaned%20data%20into%20Silver%20layer.sql)
+- Load cleaned data in the Silver layer using Stored procedure, TRUNCATE and INSERT INTO. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/439fce005433b885a32221b0a8bbcd2c4e940995/ETL%20Pipeline/Silver%20Layer/Stored%20Procedure%20for%20loading%20cleaned%20data%20into%20Silver%20layer.sql)
 
 
