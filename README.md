@@ -1,5 +1,10 @@
-# Project-Singapore-Port-Full-Maritime-Data-Ecosystem
+# Project-Singapore-Port-Full-Maritime-Data-Ecosystem ⚓
 This project is a full-stack maritime data solution system including ETL pipeline (Data Engineering), analyzing vessel congestion and delays (Data Analysis), prediction of vessel delays ML model (Data Science) and interactive business intelligence (BI Development), all created by one person using Singapore Port AIS dataset.
+
+# About the Author
+Hi everyone!👋👋 My name is Yan, and I am a former seafarer with professional experience on merchant ships and superyachts. I am currently pursuing a career in data analytics, fueled by a deep passion for leveraging data to solve real-world problems.
+
+By combining my maritime domain knowledge with technical analytics, I aim to support maritimers and port authorities through data-driven systems. As a major step toward this goal, I have built a comprehensive data ecosystem for the Singapore Port, featuring an automated ETL pipeline, a vessel delay prediction model, and interactive congestion dashboards. 🚢🌊
 
 ## Contents
 
