@@ -10,7 +10,7 @@ By combining my maritime domain knowledge with technical analytics, I aim to sup
 
 1. ETL Pipeline 
 2. Delay Prediction ML Model
-3. Interactive Tableau Dashboard
+3. Interactive Dashboard (Tableau)
 4. Vessel Congestion and Delays Analysis
 
 ## Project Overview
@@ -22,7 +22,7 @@ By combining my maritime domain knowledge with technical analytics, I aim to sup
 * Phase 4: ML Model building (3 days)
 * Phase 5: Data Analysis Report (3 days)
 
-Interactive View - [Project Singapore Draw.io](https://drive.google.com/file/d/1INofQiGs57fEAkAdjQJF3ckqFlEtzDZ_/view?usp=sharing)
+Interactive View - [Project Singapore Port Draw.io](https://drive.google.com/file/d/1INofQiGs57fEAkAdjQJF3ckqFlEtzDZ_/view?usp=sharing)
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/07666f0cbe0533047a385d52d9862682a16edaac/Documents/Project%20Final%20Layout.png)
 ## About the Dataset
@@ -65,3 +65,14 @@ This is the final stage, transform data and create view as a gold layer for busi
 ### 1.4 Documentation (log for cleaning data in ETL process) 📄
 Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, documenting the audit and correction of maritime-specific anomalies such as ETA inconsistencies and invalid vessel heading values. [log](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7521a25295cda0d480ded07817f5a091dd130fdb/ETL%20Pipeline/Log%20for%20cleaning%20data%20in%20ETL.docx)
 
+# 3. Interactive Dashboard (Tableau) 📈
+
+Interactive View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/97a7724aedf9e5a5d9cf45a4bff66e24a190550f/Interactive%20Dashboard/Dashboard%20Full%20Layout.png)
+
+The Singapore Port AIS Traffic & Congestion Analysis Dashboard is a Tableau-based executive suite for real-time monitoring of port performance. It tracks five core weekly KPIs: Total Vessels, Delay Vessel Count (past ETA), Congestion Level (a weighted index of moored and slow vessels), Moored Vessel Count, and Slow Vessel Identification (moving at ≤5 knots).
+
+The dashboard features an interactive geospatial map that color-codes AIS Activities by status—Anchor, Moored, Underway, or Special—to identify saturation zones and active transit fairways. It also provides granular operational views, including Cargo vs. Tanker navigational comparisons and vessel type distributions via treemaps, with integrated filters for specific weeks and days.
+
+The "calculations" view of the dashboard provides transparency into the logic behind the primary maritime KPIs. It features a detailed breakdown of the formulas used within Tableau to ensure data accuracy and operational relevance.
