@@ -62,3 +62,6 @@ This is the final stage, transform data and create view as a gold layer for busi
 - Logical Transformation: Specialized SQL Views translate technical AIS codes into human-readable vessel types and navigational statuses.
 - Feature Engineering: Added calculated columns such as week_number and direction (N, NE, E, etc.) for immediate downstream usage. [sql script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/c055f24313352ed86bce17869a5dd88f5534c99f/ETL%20Pipeline/Gold%20Layer/Creating%20View%20in%20Gold%20layer.sql)
 
+### 1.4 Documentation (log for cleaning data in ETL process) 📄
+Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, documenting the audit and correction of maritime-specific anomalies such as ETA inconsistencies and invalid vessel heading values. [log](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7521a25295cda0d480ded07817f5a091dd130fdb/ETL%20Pipeline/Log%20for%20cleaning%20data%20in%20ETL.docx)
+
