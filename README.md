@@ -33,6 +33,6 @@ Scope
 609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
 
 ## ETL Pipeline
-
+![alt image]
 
 
