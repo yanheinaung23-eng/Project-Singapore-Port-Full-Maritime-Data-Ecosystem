@@ -8,7 +8,7 @@ By combining my maritime domain knowledge with technical analytics, I aim to sup
 
 ## Contents
 
-1. ETL Pipeline
+1. ETL Pipeline ⚙️
 2. Delay Prediction ML Model
 3. Interactive Tableau Dashboard
 4. Vessel Congestion and Delays Analysis
