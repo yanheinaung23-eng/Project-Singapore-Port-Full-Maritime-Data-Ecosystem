@@ -66,6 +66,9 @@ This is the final stage, transform data and create view as a gold layer for busi
 Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, documenting the audit and correction of maritime-specific anomalies such as ETA inconsistencies and invalid vessel heading values. [log](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7521a25295cda0d480ded07817f5a091dd130fdb/ETL%20Pipeline/Log%20for%20cleaning%20data%20in%20ETL.docx)
 ____________________________________________________
 ## 2. Delay Prediction ML Model
+
+Vessel Delay Prediction ML Model (Random Forest) - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Vessel%20Delay%20Prediction%20Model%20(Random%20Forest).ipynb)
+Testing Delay Vessel to the Model                - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Testing%20Vessel%20Delay%20Prediction%20Model.ipynb)
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/bb0f88ea7669f2f6710628ecae388956a51605fb/Delay%20Prediction%20ML%20Model/ML%20Model%20Layout.png)
 
 ## 3. Interactive Dashboard (Tableau) 📈
