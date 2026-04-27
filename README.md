@@ -177,6 +177,40 @@ Analysis by vessel draught band reveals a counterintuitive pattern. Shallow-draf
 ***Fairway Speed reflects High Traffic***
 An average speed of 6.4 knots for moving vessels is standard for safe maneuvering inside congested port limits. However, navigating 901 moving vessels around a daily obstacle course of 627 parked vessels requires strict traffic management.
 
+### <ins> 4.3 Vessel Turnaround time </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7f244658bb1de583fdee76cb9dc27bc42c0ff91b/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Turnaround%20Time.png)
+
+### insights
+
+***Overall Port Efficiency is High***
+: The port successfully processes the vast majority of its traffic with high efficiency. 63% of all vessels (3,799 out of 6,016) turn around in less than 3 days.
+
+***The "23-32 Day" Anomaly is Driven by Tankers***
+: There is a concerning spike at the tail end of the distribution: 12% of all vessels are staying in the port for almost an entire month (23-32 days). Covered deep analysis on Tanker Anomaly in the next section.
+
+### <ins> 4.4 Vessel Turnaround time: >3 days </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7f244658bb1de583fdee76cb9dc27bc42c0ff91b/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Turnaround%20Time%20more%20than%203%20days.png)
+
+### <ins> 4.5 Plotting of tankers vessels (TAT >= 29 days)  </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7f244658bb1de583fdee76cb9dc27bc42c0ff91b/Vessel%20Congestion%20and%20Delays%20Analysis/Bunkers%20and%20FSUs%20Plotting.png)
+
+### insights
+
+Analysis of the vessel turnaround time (TAT) distribution reveals an upper-tail cluster of 299 tankers recording durations of 29 to 30 days. Geospatial mapping confirms that these are not delayed transit vessels, but rather Bunker Tankers and Floating Storage Units (FSUs). These assets are permanently stationed within designated offshore anchorage zones to facilitate oil storage and refueling operations, distinct from standard berth-cycling traffic.
+
+### <ins> 4.6 Density Headmap of all the AIS activities of Singapore Port </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7f244658bb1de583fdee76cb9dc27bc42c0ff91b/Vessel%20Congestion%20and%20Delays%20Analysis/Geo%20heatmap%20segmentated.png)
+
+### <ins> 4.7 Congestion Zones </ins>
+
+
+
+
+
 
 
 
