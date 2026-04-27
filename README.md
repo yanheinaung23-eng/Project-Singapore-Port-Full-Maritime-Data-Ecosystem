@@ -246,6 +246,28 @@ Constrained vessels dominate among the distress vessels with 77.95% of all distr
 ***Strategic Choke Points***
 : The grouping of blue dots is most intense between longitudes 103°48'E and 104°05'E (near St. John’s Island and the Phillips Channel). This is the narrowest part of the Singapore Strait, where navigable depth is most critical for these massive ships.
 
+### <ins> 4.10 NUC Vessels and Aground Vessel </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/f77079c87992d4337ee5c705fd37fddb31409680/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20aground%20and%20NUC%20vessels.png)
+
+### insights
+
+There is one Aground Vessel that run aground South of Jurong Island from 12 Oct 2023 to 14 Oct 2023
+
+***Location Risk***: This area is near the Western Islands, a zone with complex tidal currents and varying depths. For a vessel with nearly 9 meters of draught, even slight deviations from the charted fairway can lead to groundings.
+
+***Impact***: Groundings in the Singapore Strait are treated with extreme urgency by the Maritime and Port Authority (MPA) due to the risk of oil spills and the potential to block critical shipping lanes like the Phillip Channel.
+<br>
+<br>
+
+There 36 NUC vessels all across zones like VLCC anchorage zone, Western Outer Anchorage, Fairway transit and North Anchorage Belt.
+
+***Volume Insights***: The high number of NUC signals often reflects Singapore's role as a premiere ship repair and bunkering hub. Many ships arrive "under command" but may switch their AIS status to NUC while undergoing specialized offshore maintenance that prevents them from moving immediately.
+
+
+
+
+
 
 
 
