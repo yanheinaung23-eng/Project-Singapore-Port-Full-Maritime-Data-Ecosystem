@@ -265,6 +265,29 @@ There 36 NUC vessels all across zones like VLCC anchorage zone, Western Outer An
 ***Volume Insights***: The high number of NUC signals often reflects Singapore's role as a premiere ship repair and bunkering hub. Many ships arrive "under command" but may switch their AIS status to NUC while undergoing specialized offshore maintenance that prevents them from moving immediately.
 
 
+### <ins> 4.11 Recomendations </ins>
+
+***Implement Dynamic "Just-In-Time" Arrivals for Cargo Vessels***
+: Cargo vessels currently dominate the short-term delay category, with 763 ships arriving exactly one day late. Furthermore, if these vessels miss this initial window, they frequently fall into a severe 15–30 days delay surge. Establishing stricter predictive scheduling and communication could prevent manageable short-term delays from spiraling into multi-week operational losses.
+
+***Restructure Berthing Priority for Shallow-Draught Vessels***
+: The data reveals a counterintuitive draught paradox where shallow-draft vessels (0–5m) suffer the most extreme average delays at 42.1 days. Developing a dedicated secondary queue or allocating specific low-priority berths for these smaller operators could rapidly clear this massive 30+ day backlog.
+
+***Deploy Draft-Aware Traffic Control at the Phillips Channel Choke Point***
+: Constrained vessels account for a massive 77.95% of all distress signals. Because these distress signals are intensely clustered between longitudes 103°48'E and 104°05'E, enhanced draft-clearance protocols and targeted pilotage assistance should be mandated specifically for this narrow transit corridor to prevent grounding events.
+
+***Designate Dedicated Off-Fairway Repair Zones***
+: The dataset identified 36 NUC (Not Under Command) vessels scattered across critical areas, including the VLCC anchorage and the North Anchorage Belt. Since the Northern Anchorage Belt is already classified as saturated, forcing vessels undergoing maintenance into designated off-fairway repair zones would free up vital waiting areas for active vessels.
+
+### <ins> 4.12 External reference sources  </ins>
+
+-	[Maritime & Port Authority of Singapore](https://www.mpa.gov.sg/port-marine-ops/arrivals-and-departures/vessels-arriving-in-singapore)
+-	[Australian Maritime Safety Authority](https://www.amsa.gov.au/)
+-	[ALG | Port congestion explained](https://www.alg-global.com/blog/maritime/port-congestion-why-delays-happen-and-how-mitigate-them#:~:text=Root%20causes%20of%20port%20congestion,Increased%20vessel%20sizes)
+-	[UN trade & development | Vessel turnaround time](https://sft-framework.unctad.org/key-performance-indicator/maritime-vessel-turnaround-time#:~:text=Ship%20turnaround%20time%20is%20the%20total%20time,equipment%20and%20other%20resources%20used%20at%20berth)
+  
+
+
 
 
 
