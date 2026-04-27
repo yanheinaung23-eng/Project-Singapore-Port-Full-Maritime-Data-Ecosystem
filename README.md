@@ -43,7 +43,7 @@ __________________________________________________________________________
 <br>
 <br>
 
-## 1. ETL Pipeline ⚙️
+# 1. ETL Pipeline ⚙️
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/Documents/ETL%20Pipeline.png)
 
 ### 1.1 Data Ingestion (Bronze Layer) 🥉
@@ -73,7 +73,7 @@ ____________________________________________________
 <br>
 <br>
 
-## 2. Delay Prediction ML Model
+# 2. Delay Prediction ML Model
 
 The model is Random Forest classifier developed to predict vessel arrival delays at Singapore Port. The model was trained on AIS (Automatic Identification System) vessel tracking data containing 609,468 records from October–December 2023.
 
@@ -117,7 +117,7 @@ _________________________________________________________________
 <br>
 <br>
 
-## 3. Interactive Dashboard (Tableau) 📈
+# 3. Interactive Dashboard (Tableau) 📈
 
 Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
 
@@ -133,7 +133,7 @@ _______________________________________________________________
 <br>
 <br>
 
-## 4. Vessel Congestion and Delays Analysis
+# 4. Vessel Congestion and Delays Analysis
 
 Full report in docx format - [Full report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/94c8312df6991eec8ab9bf97b7fed1b2742ec0f8/Vessel%20Congestion%20and%20Delays%20Analysis/Singapore_Vessel_Congestion_Delay_Report.docx)
 
