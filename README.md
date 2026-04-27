@@ -88,6 +88,23 @@ The confusion matrix below shows prediction outcomes across 176,353 test records
 Feature importance scores measure how much each variable contributed to the model's decisions, computed as the mean Gini impurity decrease across all 100 trees.
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/1fe91948c34dc7090edc79c139c1a3bc98100e33/Delay%20Prediction%20ML%20Model/features%20and%20their%20importance.png)
+
+### 2.3 Classification Report
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7e81e5faa23bfa9d189ff859e6fe5c9611642a30/Delay%20Prediction%20ML%20Model/classification%20report%20random%20forest.png)
+
+The model is well-balanced; it is slightly more reliable at identifying on-time arrivals (0.80 F1-score) while maintaining solid performance for identifying delays (0.73 F1-score).
+
+### 2.4 Testing the Model
+The test example simulating a moored cargo vessel on a Friday—the model successfully processed diverse inputs including speed, draught, and navigational status to determine a 48.0% probability of delay, resulting in an "ON TIME" classification. [Full Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Testing%20Vessel%20Delay%20Prediction%20Model.ipynb)
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/bd701a23573930742d0eca3f01d7d0bec0079da0/Delay%20Prediction%20ML%20Model/Example%20Prediction%20.png)
+
+### 2.5 Limitation ( No Weather APIs) ⚠️
+The model was developed using a specific historical AIS dataset from the University of St Andrews covering October 2023. Because historical weather APIs often require separate premium subscriptions for precise coordinate-based matching back-dated to 2023, the model focuses on high-impact operational features like week_number, eta_hour, and maximum_draught.
+
+
+
+
 ## 3. Interactive Dashboard (Tableau) 📈
 
 Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
