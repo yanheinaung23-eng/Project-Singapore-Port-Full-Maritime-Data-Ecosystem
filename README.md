@@ -36,8 +36,8 @@ Dataset used - [AIS Data from 11 ports around the globe – Singapore port](http
 
 Using Automatic Identification System (AIS) data from October 2023, I tracked 600k+ vessel observations across 5,877 unique ships over 30 days of dataset from University of St Andrews, Scotland, created by Andreas Hadjipieris (Creator), Neofytos Dimitriou (Creator) Oggie Arandelovic (Creator) School of Computer Science.
 
-Scope
-609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
+Scope: 
+ 609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
 
 __________________________________________________________________________
 <br>
