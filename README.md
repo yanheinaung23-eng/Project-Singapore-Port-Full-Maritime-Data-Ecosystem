@@ -207,6 +207,37 @@ Analysis of the vessel turnaround time (TAT) distribution reveals an upper-tail 
 
 ### <ins> 4.7 Congestion Zones </ins>
 
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed8294266fac9ec683ac291ee841b9166f729187/Vessel%20Congestion%20and%20Delays%20Analysis/Congestion%20Zones.png)
+
+### <ins> 4.8 Top 10 Congestion Hotspots </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed8294266fac9ec683ac291ee841b9166f729187/Vessel%20Congestion%20and%20Delays%20Analysis/Geo%20heatmap%20top%2010%20congestion%20hotspot.png)
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/5b272cc7c4f1975302a52fbc2026d3224dde4294/Vessel%20Congestion%20and%20Delays%20Analysis/Top%2010%20congested%20zones%20table.png)
+
+### insights
+
+The data shows that congestion is primarily driven by anchorage demand rather than vessel movement, indicating a queueing system outside port boundaries. This suggests that berth allocation and port turnaround efficiency are key bottlenecks.
+
+### <ins> 4.9 Distress Vessels </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/5b272cc7c4f1975302a52fbc2026d3224dde4294/Vessel%20Congestion%20and%20Delays%20Analysis/Distress%20Vessels.png)
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/5b272cc7c4f1975302a52fbc2026d3224dde4294/Vessel%20Congestion%20and%20Delays%20Analysis/Distress%20Vessels%20Count.png)
+
+### insights
+
+Constrained vessels dominate among the distress vessels with 77.95% of all distress vessels.
+
+***Strategic Choke Points***
+: The grouping of blue dots is most intense between longitudes 103°48'E and 104°05'E (near St. John’s Island and the Phillips Channel). This is the narrowest part of the Singapore Strait, where navigable depth is most critical for these massive ships.
+
+
+
+
+
+
+
 
 
 
