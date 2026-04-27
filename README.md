@@ -123,6 +123,8 @@ The "calculations" view of the dashboard provides transparency into the logic be
 _______________________________________________________________
 ## 4. Vessel Congestion and Delays Analysis
 
+Full report in docx format - [Full report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/94c8312df6991eec8ab9bf97b7fed1b2742ec0f8/Vessel%20Congestion%20and%20Delays%20Analysis/Singapore_Vessel_Congestion_Delay_Report.docx)
+
 ### Vessel Delays Analysis
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/43e6920fe1ea4bfe782d2a2d80ebfeb734fe967a/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Delay%20KPIs.png)
