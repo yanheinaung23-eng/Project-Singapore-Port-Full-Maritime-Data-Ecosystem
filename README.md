@@ -40,6 +40,9 @@ Scope
 609,468 AIS records  —  5,877 unique vessels  —  14 vessels types
 
 __________________________________________________________________________
+<br>
+<br>
+
 ## 1. ETL Pipeline ⚙️
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/72704287f8bffd0456b5ed7e0e384564c6630a1b/Documents/ETL%20Pipeline.png)
 
@@ -67,6 +70,9 @@ This is the final stage, transform data and create view as a gold layer for busi
 ### 1.4 Documentation (log for cleaning data in ETL process) 📄
 Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, documenting the audit and correction of maritime-specific anomalies such as ETA inconsistencies and invalid vessel heading values. [log](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/7521a25295cda0d480ded07817f5a091dd130fdb/ETL%20Pipeline/Log%20for%20cleaning%20data%20in%20ETL.docx)
 ____________________________________________________
+<br>
+<br>
+
 ## 2. Delay Prediction ML Model
 
 The model is Random Forest classifier developed to predict vessel arrival delays at Singapore Port. The model was trained on AIS (Automatic Identification System) vessel tracking data containing 609,468 records from October–December 2023.
@@ -108,6 +114,9 @@ Finally, I have concluded with the easy-to-follow performance report of my predi
 Here is the full report of my model - [Full Report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/1cc925aa03f404f7d65b74bf83dea3a5d0908e3d/Delay%20Prediction%20ML%20Model/Vessel_Delay_Prediction_Model_Report.docx)
 
 _________________________________________________________________
+<br>
+<br>
+
 ## 3. Interactive Dashboard (Tableau) 📈
 
 Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
@@ -121,6 +130,9 @@ The dashboard features an interactive geospatial map that color-codes AIS Activi
 The "calculations" view of the dashboard provides transparency into the logic behind the primary maritime KPIs. It features a detailed breakdown of the formulas used within Tableau to ensure data accuracy and operational relevance.
 
 _______________________________________________________________
+<br>
+<br>
+
 ## 4. Vessel Congestion and Delays Analysis
 
 Full report in docx format - [Full report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/94c8312df6991eec8ab9bf97b7fed1b2742ec0f8/Vessel%20Congestion%20and%20Delays%20Analysis/Singapore_Vessel_Congestion_Delay_Report.docx)
