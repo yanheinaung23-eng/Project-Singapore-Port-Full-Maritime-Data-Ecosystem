@@ -68,8 +68,15 @@ ____________________________________________________
 ## 2. Delay Prediction ML Model
 
 Vessel Delay Prediction ML Model (Random Forest) - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Vessel%20Delay%20Prediction%20Model%20(Random%20Forest).ipynb)
+
 Testing Delay Vessel to the Model                - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Testing%20Vessel%20Delay%20Prediction%20Model.ipynb)
+
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/bb0f88ea7669f2f6710628ecae388956a51605fb/Delay%20Prediction%20ML%20Model/ML%20Model%20Layout.png)
+
+### 2.1 Confusion Matrix
+The confusion matrix below shows prediction outcomes across 176,353 test records:
+
+
 
 ## 3. Interactive Dashboard (Tableau) 📈
 
