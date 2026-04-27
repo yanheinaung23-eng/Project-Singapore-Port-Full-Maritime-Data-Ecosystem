@@ -68,6 +68,11 @@ Implemented a comprehensive Data Cleaning Log to ensure pipeline transparency, d
 ____________________________________________________
 ## 2. Delay Prediction ML Model
 
+The model is Random Forest classifier developed to predict vessel arrival delays at Singapore Port. The model was trained on AIS (Automatic Identification System) vessel tracking data containing 609,468 records from October–December 2023.
+
+The model achieved 77.05% accuracy and an AUC-ROC of 85.36% on unseen test data. The model is capable of predicting whether a vessel will arrive later than its ETA with high reliability, making it suitable for real-time port operations decision support.
+
+
 Vessel Delay Prediction ML Model (Random Forest) - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Vessel%20Delay%20Prediction%20Model%20(Random%20Forest).ipynb)
 
 Testing Delay Vessel to the Model                - [Full Python Script](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/ed0bf148e0a4959601204a420b7097842e8b9704/Delay%20Prediction%20ML%20Model/Testing%20Vessel%20Delay%20Prediction%20Model.ipynb)
@@ -79,7 +84,10 @@ The confusion matrix below shows prediction outcomes across 176,353 test records
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/e0eeceb46aedcf8896a0787db08be71630ef90f3/Delay%20Prediction%20ML%20Model/Confusion%20Matrix%20Layout.png)
 
+### 2.2 Features and their feature importance
+Feature importance scores measure how much each variable contributed to the model's decisions, computed as the mean Gini impurity decrease across all 100 trees.
 
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/1fe91948c34dc7090edc79c139c1a3bc98100e33/Delay%20Prediction%20ML%20Model/features%20and%20their%20importance.png)
 ## 3. Interactive Dashboard (Tableau) 📈
 
 Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
