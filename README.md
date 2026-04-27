@@ -305,7 +305,7 @@ My Linkedin 👉 [www.linkedin.com/in/yanheinaung](www.linkedin.com/in/yanheinau
 
 My Email    👉 [yanhein.aung23@gmail.com](mailto:yanhein.aung23@gmail.com)
 
-A special thanks to the researchers at the University of St Andrews for providing the foundational dataset that made this analysis possible. This project represents a significant step in my work with Agentic AI and data analytics, and I am excited to continue refining these tools to drive smarter, more efficient port operations.
+A special thanks to the researchers at the University of St Andrews for providing the foundational dataset that made this analysis possible. This project represents a significant step in my data career, and I am excited to continue refining these tools to drive smarter, more efficient port operations.
 
 Hope you have a great day! Cheer!
 
