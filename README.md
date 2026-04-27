@@ -3,10 +3,12 @@ This project is a full-stack maritime data solution system including ETL pipelin
 
 ## Contents
 
+Click names below to navigate directly to each section. 👇
+
 1. [ETL Pipeline](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/main/README.md#1-etl-pipeline-%EF%B8%8F) ⚙️
-2. Delay Prediction ML Model
-3. Interactive Dashboard (Tableau)
-4. Vessel Congestion and Delays Analysis
+2. [Delay Prediction ML Model](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem#2-delay-prediction-ml-model) 🤖
+3. [Interactive Dashboard (Tableau)](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem#3-interactive-dashboard-tableau-) 📊
+4. [Vessel Congestion and Delays Analysis](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem#4-vessel-congestion-and-delays-analysis) 🔎
 
 ## Project Overview
 
@@ -73,7 +75,7 @@ ____________________________________________________
 <br>
 <br>
 
-# 2. Delay Prediction ML Model
+# 2. Delay Prediction ML Model 🤖
 
 The model is Random Forest classifier developed to predict vessel arrival delays at Singapore Port. The model was trained on AIS (Automatic Identification System) vessel tracking data containing 609,468 records from October–December 2023.
 
@@ -117,7 +119,7 @@ _________________________________________________________________
 <br>
 <br>
 
-# 3. Interactive Dashboard (Tableau) 📈
+# 3. Interactive Dashboard (Tableau) 📊
 
 Interactive Tableau View - [Singapore Port AIS Traffic & Congestion Analysis Project](https://public.tableau.com/app/profile/yan.aung3461/viz/SingaporePortVesselDelayandCongestionAnalysis/Dashboard1)
 
@@ -133,7 +135,7 @@ _______________________________________________________________
 <br>
 <br>
 
-# 4. Vessel Congestion and Delays Analysis
+# 4. Vessel Congestion and Delays Analysis 🔎
 
 Full report in docx format - [Full report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/94c8312df6991eec8ab9bf97b7fed1b2742ec0f8/Vessel%20Congestion%20and%20Delays%20Analysis/Singapore_Vessel_Congestion_Delay_Report.docx)
 
@@ -295,6 +297,9 @@ ____________________________________________________
 This Data Ecosystem project is based on October 2023 AIS data and represents conditions during that specific period. Port operations, capacity, and performance metrics may have changed since data collection and should not be considered precise forecasts. Readers should consult Singapore Port management and official reports for current operational data.
 
 ______________________________________________________
+<br>
+<br>
+
 # 6. Thank you for being here until the end 🙏🙌
 
 Thank you for taking the time to explore this project. This project has been an incredible learning journey for me - deep dive into the intersection of data science and maritime logistics.
