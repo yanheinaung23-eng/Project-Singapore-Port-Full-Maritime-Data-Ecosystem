@@ -103,7 +103,9 @@ The test example simulating a moored cargo vessel on a Friday—the model succes
 ### 2.5 Limitation ( No Weather APIs) ⚠️
 The model was developed using a specific historical AIS dataset from the University of St Andrews covering October 2023. Because historical weather APIs often require separate premium subscriptions for precise coordinate-based matching back-dated to 2023, the model focuses on high-impact operational features like week_number, eta_hour, and maximum_draught.
 
-
+### 2.6 Model Performance Report
+Finally, I have concluded with the easy-to-follow performance report of my prediction model.
+Here is the full report of my model - [Full Report](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/1cc925aa03f404f7d65b74bf83dea3a5d0908e3d/Delay%20Prediction%20ML%20Model/Vessel_Delay_Prediction_Model_Report.docx)
 
 
 ## 3. Interactive Dashboard (Tableau) 📈
