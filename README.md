@@ -76,6 +76,7 @@ Testing Delay Vessel to the Model                - [Full Python Script](https://
 ### 2.1 Confusion Matrix
 The confusion matrix below shows prediction outcomes across 176,353 test records:
 
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/e0eeceb46aedcf8896a0787db08be71630ef90f3/Delay%20Prediction%20ML%20Model/Confusion%20Matrix%20Layout.png)
 
 
 ## 3. Interactive Dashboard (Tableau) 📈
