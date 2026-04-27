@@ -119,3 +119,26 @@ The Singapore Port AIS Traffic & Congestion Analysis Dashboard is a Tableau-base
 The dashboard features an interactive geospatial map that color-codes AIS Activities by status—Anchor, Moored, Underway, or Special—to identify saturation zones and active transit fairways. It also provides granular operational views, including Cargo vs. Tanker navigational comparisons and vessel type distributions via treemaps, with integrated filters for specific weeks and days.
 
 The "calculations" view of the dashboard provides transparency into the logic behind the primary maritime KPIs. It features a detailed breakdown of the formulas used within Tableau to ensure data accuracy and operational relevance.
+
+_______________________________________________________________
+## 4. Vessel Congestion and Delays Analysis
+
+### Vessel Delays Analysis
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/43e6920fe1ea4bfe782d2a2d80ebfeb734fe967a/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Delay%20KPIs.png)
+
+**insights**
+
+***System-Wide Delay***
+
+The 60%-70% delay ratio holds every single day throughout October regardless of traffic volume or day of week, confirming a chronic port capacity constraint rather than an episodic or weather-driven event.
+
+***Cargo Vessels short-term Delay***
+
+Cargo vessels dominate the "1 day late" category (763 vessels). This suggests that while Cargo ships are frequently delayed, the delays are often short-term and potentially manageable through better scheduling.
+
+
+
+
+
+
