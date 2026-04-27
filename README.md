@@ -286,6 +286,37 @@ There 36 NUC vessels all across zones like VLCC anchorage zone, Western Outer An
 -	[ALG | Port congestion explained](https://www.alg-global.com/blog/maritime/port-congestion-why-delays-happen-and-how-mitigate-them#:~:text=Root%20causes%20of%20port%20congestion,Increased%20vessel%20sizes)
 -	[UN trade & development | Vessel turnaround time](https://sft-framework.unctad.org/key-performance-indicator/maritime-vessel-turnaround-time#:~:text=Ship%20turnaround%20time%20is%20the%20total%20time,equipment%20and%20other%20resources%20used%20at%20berth)
   
+____________________________________________________
+<br>
+<br>
+
+# 5. Project Disclaimer ⚠️
+
+This Data Ecosystem project is based on October 2023 AIS data and represents conditions during that specific period. Port operations, capacity, and performance metrics may have changed since data collection and should not be considered precise forecasts. Readers should consult Singapore Port management and official reports for current operational data.
+
+______________________________________________________
+# 6. Thank you for being here until the end 🙏🙌
+
+Thank you for taking the time to explore this project. This project has been an incredible learning journey for me - deep dive into the intersection of data science and maritime logistics.
+
+I am always open to professional collaborations, feedback, or discussions regarding data science and maritime logistics. If you have advice on the roadmap or would like to discuss potential projects, please feel free to reach out and connect!
+
+My Linkedin 👉 [www.linkedin.com/in/yanheinaung](www.linkedin.com/in/yanheinaung)
+My Email    👉 [yanhein.aung23@gmail.com](mailto:yanhein.aung23@gmail.com)
+
+A special thanks to the researchers at the University of St Andrews for providing the foundational dataset that made this analysis possible. This project represents a significant step in my work with Agentic AI and data analytics, and I am excited to continue refining these tools to drive smarter, more efficient port operations.
+
+Hope you have a great day! Cheer!
+
+_____________________________________________________
+# THE END
+<br>
+<br>
+
+🛡️ License This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+
+
 
 
 
