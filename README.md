@@ -3,7 +3,7 @@ This project is a full-stack maritime data solution system including ETL pipelin
 
 ## Contents
 
-1. [ETL Pipeline](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/main/README.md#1-etl-pipeline-%EF%B8%8F) 
+1. [ETL Pipeline ⚙️](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/main/README.md#1-etl-pipeline-%EF%B8%8F) 
 2. Delay Prediction ML Model
 3. Interactive Dashboard (Tableau)
 4. Vessel Congestion and Delays Analysis
