@@ -162,6 +162,34 @@ Delay severity varies substantially across vessel types. Tanker variants consist
 
 Analysis by vessel draught band reveals a counterintuitive pattern. Shallow-draft vessels (0–5m) suffer the longest average delays at <ins>42.1 days</ins>, with 27% waiting more than 30 days. This is likely attributable to lower port priority scheduling and a higher proportion of small, independent operators without berth pre-booking. Deep-draft vessels (20–25m) also experience elevated delays of <ins>12.8 days</ins> due to limited deep-water berth availability. Mid-range vessels (10–15m draught) are best served, averaging only 6.8 days.
 
+### Vessel Congestion Analysis 
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/bd2bb9dc7a37847660356716e1aacc2019ba0953/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Congestion%20KPIs.png)
+
+### insights
+
+***Red Flag Turnaround time***
+: According to UN Trade and Development (UNCTAD), an average turnaround time of nearly 6 days is a red flag—especially for time-sensitive container or cargo ships. 
+
+***Actual Working Time (Derived): 2.48 days (5.55 - 3.07)***
+: Vessels are spending 55% of their total time in port just waiting at anchor for a berth to open up. This means the actual operational work (loading, unloading, or refueling) takes less than 2.5 days, but the queue adds an extra 3 days of dead time. The primary bottleneck is not the speed of the cranes or the dockworkers; it is a severe lack of available berth space.
+
+***Fairway Speed reflects High Traffic***
+An average speed of 6.4 knots for moving vessels is standard for safe maneuvering inside congested port limits. However, navigating 901 moving vessels around a daily obstacle course of 627 parked vessels requires strict traffic management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
