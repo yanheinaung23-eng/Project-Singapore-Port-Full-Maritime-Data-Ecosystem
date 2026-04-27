@@ -127,15 +127,32 @@ _______________________________________________________________
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/43e6920fe1ea4bfe782d2a2d80ebfeb734fe967a/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Delay%20KPIs.png)
 
-**insights**
+### insights
 
 ***System-Wide Delay***
-
-The 60%-70% delay ratio holds every single day throughout October regardless of traffic volume or day of week, confirming a chronic port capacity constraint rather than an episodic or weather-driven event.
+: The 60%-70% delay ratio holds every single day throughout October regardless of traffic volume or day of week, confirming a chronic port capacity constraint rather than an episodic or weather-driven event.
 
 ***Cargo Vessels short-term Delay***
+: Cargo vessels dominate the "1 day late" category (763 vessels). This suggests that while Cargo ships are frequently delayed, the delays are often short-term and potentially manageable through better scheduling.
 
-Cargo vessels dominate the "1 day late" category (763 vessels). This suggests that while Cargo ships are frequently delayed, the delays are often short-term and potentially manageable through better scheduling.
+***Cargo Vessels short-term Delay***
+: Cargo vessels dominate the "1 day late" category (763 vessels). This suggests that while Cargo ships are frequently delayed, the delays are often short-term and potentially manageable through better scheduling.
+
+	
+***The "15–30 Day" Cargo Surge***
+: Notable spike for Cargo vessels in the 15–30 days delay category after 1 day late. It seems like if they miss their window significantly, they appear to get "stuck" for a minimum of two weeks. This could be due to missing a specific feeder connection or losing their slot in a highly congested queue.
+
+***Long-Tail Delays***
+: Tankers are much more likely than Cargo ships to be delayed for >30 days (273 vs 131) and 4–7 days (401 vs 212).
+Tankers may be facing specific bottlenecks such as berth availability for liquid bulk or longer bunkering/safety inspections that don't affect standard cargo ships.
+
+### <ins> 4.1 Delay by vessel type — sorted by average maximum delay </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/d45a56e8e87014962865ce4edd3b1a94b5e43c67/Vessel%20Congestion%20and%20Delays%20Analysis/Delay%20by%20vessel%20type.png)
+
+### insights
+
+Delay severity varies substantially across vessel types. Tanker variants consistently experience the longest average maximum delays, with General Tankers averaging <ins>16.9 days</ins> and Tanker (Reserved) class vessels averaging <ins>40.1 days</ins>. Cargo vessel types, while more numerous, show shorter average delays but remain significantly above acceptable thresholds.
 
 
 
