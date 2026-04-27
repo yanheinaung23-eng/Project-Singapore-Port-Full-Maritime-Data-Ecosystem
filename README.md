@@ -154,6 +154,16 @@ Tankers may be facing specific bottlenecks such as berth availability for liquid
 
 Delay severity varies substantially across vessel types. Tanker variants consistently experience the longest average maximum delays, with General Tankers averaging <ins>16.9 days</ins> and Tanker (Reserved) class vessels averaging <ins>40.1 days</ins>. Cargo vessel types, while more numerous, show shorter average delays but remain significantly above acceptable thresholds.
 
+### <ins> 4.2 The Draught Paradox </ins>
+
+![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/4dfb8d2d501b62df24fdb281ac4c63f955e088d2/Vessel%20Congestion%20and%20Delays%20Analysis/Vessel%20Draught%20Paradox.png)
+
+### insights
+
+Analysis by vessel draught band reveals a counterintuitive pattern. Shallow-draft vessels (0–5m) suffer the longest average delays at <ins>42.1 days</ins>, with 27% waiting more than 30 days. This is likely attributable to lower port priority scheduling and a higher proportion of small, independent operators without berth pre-booking. Deep-draft vessels (20–25m) also experience elevated delays of <ins>12.8 days</ins> due to limited deep-water berth availability. Mid-range vessels (10–15m draught) are best served, averaging only 6.8 days.
+
+
+
 
 
 
