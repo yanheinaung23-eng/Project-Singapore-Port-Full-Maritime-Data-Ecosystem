@@ -17,7 +17,7 @@ This project is a full-stack maritime data solution system including ETL pipelin
 * Phase 4: ML Model building (3 days)
 * Phase 5: Data Analysis Report (3 days)
 
-Interactive View - [Project Singapore Port Draw.io](https://drive.google.com/file/d/1INofQiGs57fEAkAdjQJF3ckqFlEtzDZ_/view?usp=sharing)
+Interactive View - [Project Singapore Port Draw.io]([https://drive.google.com/file/d/1INofQiGs57fEAkAdjQJF3ckqFlEtzDZ_/view?usp=sharing](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&layers=1&nav=1&title=Project%20Singapore.drawio&dark=1#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1INofQiGs57fEAkAdjQJF3ckqFlEtzDZ_%26export%3Ddownload#%7B%22pageId%22%3A%22MMidoex00Tdxfsrk5Lq_%22%7D))
 (Please open with draw.io to achieve interactive view)
 
 ![alt image](https://github.com/yanheinaung23-eng/Project-Singapore-Port-Full-Maritime-Data-Ecosystem/blob/07666f0cbe0533047a385d52d9862682a16edaac/Documents/Project%20Final%20Layout.png)
